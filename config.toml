@@ -5,7 +5,9 @@ theme = "hugo-ink"
 
 paginate = 5
 
-copyright = "© Copyright notice"
+copyright = "© bruh??"
+
+enableEmoji = true
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
